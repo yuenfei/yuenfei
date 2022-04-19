@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yuenfei
 - 👀 I’m interested in mobile software developement, game development, and cross platform tools
-- 🌱 I’m currently learning RESTful API, Android Studio Development
+- 🌱 I’m currently learning RESTful API, Android Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
