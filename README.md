@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yuenfei
 - 👀 I’m interested in mobile software developement, game development, and cross platform backend services
-- 🌱 I’m currently learning RESTful API, CQRS, Mobile Development, Microtransactions
+- 🌱 I’m currently learning RESTful API, Python, Microtransactions
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
